@@ -1,0 +1,19 @@
+h1{
+	color: hotpink;
+	font-weight: bolt;
+}
+
+h3{
+  font-weight: bolt;
+  color:white;
+  text-align:right;
+  font-style: oblique;
+  background-color:palevioletred;
+}
+
+body 
+  {
+    background-image: url("fond rose.jpg");
+}
+
+
