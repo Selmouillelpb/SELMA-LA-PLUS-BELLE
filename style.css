@@ -1,14 +1,14 @@
 h1{
-	color: hotpink;
-	font-weight: bolt;
+	color: palevioletred;
+	font-weight: bold;
 }
 
 h3{
-  font-weight: bolt;
+  font-weight: bold;
   color:white;
   text-align:right;
   font-style: oblique;
-  background-color:palevioletred;
+  background-color:deeppinks;
 }
 
 body 
@@ -17,3 +17,6 @@ body
 }
 
 
+.text{
+  text-align: right;
+}
